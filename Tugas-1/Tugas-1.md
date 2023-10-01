@@ -49,3 +49,27 @@ Bagi konsumen yang berbelanja online, ulasan produk adalah sumber informasi yang
 #### Teori yang Relevan
 
 Teori-teori dalam analisis teks, pemrosesan bahasa alami, perilaku konsumen, dan ekonomi dapat digunakan untuk mendukung analisis ini.
+
+### Daftar Perpustakaan
+
+#### Buku
+
+1. Pang, B., & Lee, L. (2008). Opinion Mining and Sentiment Analysis. Foundations and Trends® in Information Retrieval, 2(1–2), 1–135.
+
+2. Liu, B. (2012). Sentiment Analysis and Opinion Mining. Synthesis Lectures on Human Language Technologies, 5(1), 1–167.
+
+#### Jurnal
+
+1. Hu, M., & Liu, B. (2004). Mining and summarizing customer reviews. Proceedings of the Tenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining - KDD '04, 168–177.
+
+2. Pak, A., & Paroubek, P. (2010). Twitter as a Corpus for Sentiment Analysis and Opinion Mining. Proceedings of the Seventh conference on International Language Resources and Evaluation (LREC'10), 1320–1326.
+
+3. Zhang, L., Zhao, J., & LeCun, Y. (2015). Character-level Convolutional Networks for Text Classification. Advances in Neural Information Processing Systems 28 (NIPS 2015), 649–657.
+
+#### Sumber Online
+
+1. NLTK (Natural Language Toolkit): NLTK adalah perpustakaan Python yang populer untuk pemrosesan bahasa alami dan analisis teks.
+
+2. VADER (Valence Aware Dictionary and sEntiment Reasoner): VADER adalah alat analisis sentimen yang khusus dibuat untuk bahasa Inggris dan dapat digunakan untuk menganalisis teks sosial media.
+
+3. TextBlob: TextBlob adalah perpustakaan Python yang mudah digunakan untuk pemrosesan bahasa alami, termasuk analisis sentimen.
