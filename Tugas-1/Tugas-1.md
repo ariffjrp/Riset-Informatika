@@ -16,7 +16,7 @@ Perusahaan seringkali ingin memahami bagaimana pelanggan merasakan produk atau l
 
 #### Teori yang Relevan
 
-Teori-teori dalam analisis teks, seperti analisis sentimen, pemrosesan bahasa alami, dan teori psikologi konsumen, dapat digunakan untuk mendukung analisis ini.
+- Teori-teori dalam analisis teks : seperti analisis sentimen, pemrosesan bahasa alami, dan teori psikologi konsumen, dapat digunakan untuk mendukung analisis ini.
 
 ### Topik 2: Analisis Sentimen Politik pada Platform Media Sosial selama Pemilihan Umum
 
@@ -32,7 +32,9 @@ Pemilihan umum seringkali memicu perdebatan dan diskusi di media sosial. Memaham
 
 #### Teori yang Relevan
 
-Teori-teori dalam analisis politik, pemrosesan bahasa alami, dan sosiologi politik dapat mendukung analisis ini.
+- Teori-teori dalam analisis ilmu politik : cabang ilmu sosial yang memeriksa berbagai aspek pemerintahan, politik, dan kebijakan. Beberapa teori yang penting dalam analisis ilmu politik 
+- pemrosesan bahasa alami : subset NLP yang berfokus di analisis makna di balik kalimat. NLU memungkinkan perangkat lunak menemukan makna yang sama dalam kalimat berbeda atau memproses kata yang memiliki makna berbeda.
+- sosiologi politik dapat mendukung analisis ini.
 
 ### Topik 3: Analisis Sentimen dalam Ulasan Produk di E-commerce
 
@@ -48,7 +50,9 @@ Bagi konsumen yang berbelanja online, ulasan produk adalah sumber informasi yang
 
 #### Teori yang Relevan
 
-Teori-teori dalam analisis teks, pemrosesan bahasa alami, perilaku konsumen, dan ekonomi dapat digunakan untuk mendukung analisis ini.
+- Teori-teori dalam analisis teks : proses menggunakan sistem komputer untuk membaca dan memahami teks yang ditulis oleh manusia untuk wawasan bisnis.
+- pemrosesan bahasa alami : subset NLP yang berfokus di analisis makna di balik kalimat. NLU memungkinkan perangkat lunak menemukan makna yang sama dalam kalimat berbeda atau memproses kata yang memiliki makna berbeda.
+- perilaku konsumen, dan ekonomi dapat digunakan untuk mendukung analisis ini.
 
 ### Daftar Perpustakaan
 
